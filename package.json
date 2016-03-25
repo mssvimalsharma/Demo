@@ -1,0 +1,27 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "webhook with git",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mssvimalsharma/Demo.git"
+  },
+  "keywords": [
+    "Webhook",
+    "node"
+  ],
+  "author": "Vimal sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mssvimalsharma/Demo/issues"
+  },
+  "homepage": "https://github.com/mssvimalsharma/Demo#readme"
+}
